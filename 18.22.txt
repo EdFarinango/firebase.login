@@ -1,0 +1,15 @@
+ionic start devdacticFire blank --type-angular
+dir
+cd devdacticFire
+ionic g page login
+ionic g service services/auth
+ionic g service services/avatar
+npm i @capacitor/camera
+code .
+npm i @ionic/pwa-elements
+npm install -g firebase-tools
+npm install firebase
+npm install -g @angular/cli
+ng add @angular/fire
+ng add @angular/fire >18.22.txt
+doskey/history >18.22.txt

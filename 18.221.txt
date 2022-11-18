@@ -1,0 +1,19 @@
+ng add @angular/fire
+dir
+cd Desktop
+dir
+cd Ga
+cd Gallery
+dir
+cd firebase.ionioc.18.11.22
+dir
+cd devdacticFire
+ng add @angular/fire
+ng add @angular/fire@latest
+npm i -D firebase-tools
+ng add @angular/fire@latest
+npm install -g @angular/fire
+ng add @angular/fire@latest
+ng add @angular/fire --force
+ng add @angular/fire --legacy-peer-deps
+doskey/history >18.221.txt
